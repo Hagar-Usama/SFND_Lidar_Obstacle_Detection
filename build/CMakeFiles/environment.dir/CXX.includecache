@@ -15,10 +15,20 @@ processPointClouds.h
 /home/hagar/Documents/OhMy!/Sensor_Fusion/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
 processPointClouds.cpp
 /home/hagar/Documents/OhMy!/Sensor_Fusion/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+iostream
+-
+pcl/io/pcd_io.h
+-
+pcl/point_types.h
+-
 
 /home/hagar/Documents/OhMy!/Sensor_Fusion/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
 processPointClouds.h
 /home/hagar/Documents/OhMy!/Sensor_Fusion/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+cmath
+-
+unordered_set
+-
 
 /home/hagar/Documents/OhMy!/Sensor_Fusion/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
 pcl/io/pcd_io.h
